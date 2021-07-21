@@ -1,3 +1,7 @@
+/**
+* @kind path-problem
+*/
+
 import cpp
 // from Macro m,MacroInvocation mi 
 // where 
